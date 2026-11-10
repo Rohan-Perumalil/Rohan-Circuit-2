@@ -17,4 +17,4 @@ Click the the run button in the top left corner, then toggle the I0,I1 pins in o
 
 ## External hardware
 
-1 LED and 1 AND gate wee used
+1 LED and 1 AND gate we're used
