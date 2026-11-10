@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+My circuit takes in two inputs and feeds them into an AND gate, and the output is then fed into and LED connected to ground.
 
 ## How to test
 
-Explain how to use your project
+Click the the run button in the top left corner, then toggle the I0,I1 pins in order to produce an output.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+1 LED and 1 AND gate wee used
